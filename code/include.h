@@ -2,7 +2,7 @@
 #define  __include_h__
 
 #include <string.h>
-#include <intrins.h>
+//#include <intrins.h>
 #include <stdio.h>
 #include "stc11.h"
 #include "main.h"

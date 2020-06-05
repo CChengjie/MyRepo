@@ -98,7 +98,7 @@ void main(void)
 	
     lcdMsg("浙江中医药大学",1,0);
 	lcdMsg("物联网课程",2,0);
-	lcdMsg("XXX",3,0);
+	lcdMsg("陈程洁",3,0);
     lcdMsg("www.zcmu.edu.cn",4,0);
     delay_ms(2000);
     lcdInitinal();
